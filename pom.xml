@@ -6,10 +6,10 @@
 
     <groupId>com.icodeair</groupId>
     <artifactId>icodeair-common</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <name>icodeair-common</name>
-    <description>progress in Java</description>
+    <description>icodeair-common</description>
     <url>https://github.com/icodeair/icodeair-common</url>
     <inceptionYear>2018</inceptionYear>
 
